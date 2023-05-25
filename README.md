@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 👋
+
+😄 I'm Dayu Hu.
+
+🔭 I graduated from Huazhong Agricultural University (HZAU) and Northeastern University (NEU). 
+
+🌱 I am working hard and pursuing my doctor degree in College of Computer, National University of Defense Technology (NUDT). 
+
+👯 I’m looking to collaborate on Bioinformatics and Dynamic graph learning
+
+  <center> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DayuHu" />
+  </center>
 
 <!--
 **DayuHuu/DayuHuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
