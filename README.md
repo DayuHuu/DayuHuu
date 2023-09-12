@@ -2,7 +2,7 @@
 
 😄 I'm Dayu Hu.
 
-🔭 I graduated from Huazhong Agricultural University (HZAU) and Northeastern University (NEU). 
+🔭 I graduated from Northeastern University (NEU). 
 
 🌱 I am working hard and pursuing my doctor degree in College of Computer, National University of Defense Technology (NUDT). 
 
