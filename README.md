@@ -1,6 +1,6 @@
 ### Hi 👋
 
-😄 I'm Dayu Hu. The Google page link：[https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN)
+😄 I'm Dayu Hu. Google page：[https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN).
 
 🔭 I graduated from Northeastern University (NEU). 
 
