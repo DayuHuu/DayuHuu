@@ -2,11 +2,9 @@
 
 😄 I'm Dayu Hu. Google page：[https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN).
 
-🔭 I graduated from Northeastern University (NEU). 
+🔭 Home page：[http://faculty.neu.edu.cn/dayuhu](http://faculty.neu.edu.cn/dayuhu).
 
-🌱 I am working hard and pursuing my doctor degree in College of Computer, National University of Defense Technology (NUDT). 
-
-👯 I’m looking to collaborate on Bioinformatics and Dynamic graph learning
+👯 I’m looking to collaborate on Bioinformatics and graph neural networks.
 
   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=DayuHu" />
