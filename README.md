@@ -1,10 +1,10 @@
-### Hi 👋
+### Hi, I'm Dayu Hu 👋
 
-😄 I'm Dayu Hu. Google page：[https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN).
+😄 I am a Lecturer at Northeastern University specializing in AI & Biology. 📊 Citations & Papers: [Google Scholar](https://scholar.google.com.hk/citations?user=AKdv5-0AAAAJ&hl=zh-CN).
 
-🔭 Home page：[http://faculty.neu.edu.cn/dayuhu](http://faculty.neu.edu.cn/dayuhu).
+🔭 Visit my **Faculty Homepage**: [http://faculty.neu.edu.cn/dayuhu](http://faculty.neu.edu.cn/dayuhu).
 
-👯 I’m looking to collaborate on Bioinformatics and graph neural networks.
+👯 I’m actively looking to collaborate on **Bioinformatics**, **Clustering Analysis**, and **Graph Neural Networks (GNNs)**.
 
   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=DayuHu" />
